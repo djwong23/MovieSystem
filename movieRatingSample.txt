@@ -34,6 +34,8 @@ Father of the Bride Part II (1995)|5.0|43
 Father of the Bride Part II (1995)|3.0|45
 Father of the Bride Part II (1995)|4.0|58
 Father of the Bride Part II (1995)|4.0|66
+Joker (2020)|4.95|456
+Batman (2021)|4.9|457
 Heat (1995)|4.0|1
 Heat (1995)|4.0|6
 Heat (1995)|5.0|11
